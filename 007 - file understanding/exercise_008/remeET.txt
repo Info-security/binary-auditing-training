@@ -1,0 +1,22 @@
+INSTRUCTIONS:
+
+Run the program.  Pretty dull huh?  Your task is to spice it up a little bit.  Here's how:
+
+1) Add a menu to the program.  The top-level menu should read: Color.  Below that should be three menu items: Black, Gray, and White.
+
+2) Make each of the three menu items change the background of the window to the appropriate color.
+
+3) As an added little challenge, can you make the Secret Message appear in a contrasting color?  In other words: Black Text on Gray and White background, White Text on Black Background.
+
+
+----------------------------------------------
+
+RESTRICTIONS:
+
+1)  No SICE.  You can do all of this with deadlistings :)  It's a teenie little app.
+
+2)  No adding sections.  You shouldn't even need to adjust the size of any existing sections.
+
+3)  No adding imports.  Make due with the functions that are already there...it's enough.
+
+4)  Can you add the menu by hand?  Try it before you resort to using BRW or another resource editor.  If you can't do it by hand...do it with an app and then reverse the hell out of it so you CAN do it next time ;-)

@@ -1,0 +1,7 @@
+
+Your task is to make the reverseme to show its full commandline.
+No patching is allowed (and no memory patching) and no api hooks or whatever.
+.. and by the way, for a working version, windows shouldn't reboot ;-)
+
+The reverseme is quite easy but may appear a bit hard for newbies..
+Anyway, you will learn some useful stuff.

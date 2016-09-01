@@ -1,0 +1,5 @@
+All You have to do is:
+Display a splash screen (it's in resource of Rev1.exe), when You click on the Bitmap menu.
+
+NO PATCHING & PROCESSPATCHING ALLOWED!!!
+There are few ways to do it so, GENTLEMEN START YOUR ENGINES!

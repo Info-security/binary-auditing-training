@@ -1,0 +1,14 @@
+ 
+This ReversMe on the other hand is an incomplete program (a texteditor)
+with no software protection at all. It's purpose is to learn you how to 
+reverse. By reversing I mean adding functionality to a program. This 
+texteditor for instance has a loading option, a saving option and a an
+exit option. None works. It would be nice if a texteditor had a scroll-
+bar too.
+
+This is the challenge:
+
+- Add the loading option to the program
+- Add the saving option to the program
+- Add the exit option to the program
+- Add a scrollbar to the editbox

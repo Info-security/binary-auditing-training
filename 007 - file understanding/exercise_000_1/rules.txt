@@ -1,0 +1,11 @@
+The task of this little, reverseme is to add some code to it.
+The code you have to add will be triggered by the 'Exit' menu and should
+look like this:
+
+A messagebox should appear asking the user "Do you fickbirne really want to quit?".
+Its buttons should be 'Yes' and 'No'. If the user clicks 'Yes', simply exit the
+program in a clean way, if the user clicks 'No' just do NOT exit the program
+(it's up to you what will happen when the user clicks 'No').
+
+Valid solutions are solutions with a tutorial explaining what you did,
+explaining the code you added and the modified binaries.

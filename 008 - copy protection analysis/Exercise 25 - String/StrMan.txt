@@ -1,0 +1,31 @@
+Crudd's String Manipulator ReMe.
+
+Origanally i wrote this to use, but decided it was pretty useless and decided to make it a reme.
+Whut it does is takes a string and preforms a bit operation on it and writes it to a file.  Anyway,
+on with the show.
+
+Ok, heres the deal.  You have to make the ROR and NOT functions work.
+Simple enough?  We'll there are a few rules:
+	You have to add the functions in a DLL that you write.
+	You cannot edit String.dll at all.
+	You must make all calls to String.dll call to your DLL instead and then to String DLL.
+	(NOTE: Only the two completed functions need to call String.dll, your functions can
+		return to the program.  And there should be no references to String.dll in 
+		the final StrMan.exe.)
+	There is no need for the second edit box for the NOT function so it should be hidden or
+		disabled when NOT is selected. NOTE: it needs to be re-enabled/unhidden when 
+		any other radio button is selected.
+
+Well, i hope that all makes sense.  I origanally wrote this in ASM but i was bored and decided
+to try and rewrite it in C.  This is my first C program and i hope there arent any bugs.  If you
+do find some please let me know.  Now go have fun reversing and send solutions or questions to:
+Crudd@DrunkenBastards.com
+
+NOTE: crtdll.dll is a file that the compiler i used (lcc) uses, i dont know if its a win9x DLL, 
+so i included it to make things easier on use all.
+
+Greets and thank yous to:  extasy, SantMat, Sheep140 and all of [CrEaM], tank, all the usuals in 
+#C4N, #Cream2000, L!m!t, Rebellious and all of [TeX], anyone i forgot (sorry) and of course you.
+
+Enjoy kiddies,
+Crudd [CrEaM]

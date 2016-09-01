@@ -1,0 +1,4 @@
+Just run the program, it will describe the task at hand!! :)
+
+Just so you know, I added about 3 functions that didn't need to be in the prog
+just so it might be a little easier :)

@@ -1,0 +1,9 @@
+Guess whut that means you have to do.  Thats right, put it all together
+and make a working PE file.  It shouldnt be too hard for seasoned reversers
+and will be a good learnig experience for the rest of us.
+
+Things you'll need to do:
+	Add/Create the Dos Stub/PE Header
+	Figure out which section is which
+	Put it all together, and make it run
+	Have fun :)

@@ -1,0 +1,6 @@
+Your mission is to call the only function in the dll from the loader
+program.  No coding your own loader.  It shouldnt be to hard.  But
+of course there are a few rules.
+
+*No touching the DLL, not in memory or anything (you really shouldnt need to)
+*You can do anything to the exe, EXCEPT add any imports :)

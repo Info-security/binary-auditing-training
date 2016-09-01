@@ -1,0 +1,14 @@
+This one is a bit different.  It contains a .dll that has three functions. 
+The first two are exported and the third is called from the second, 
+but we wunt it to be called when the 'Third Function' button is pressed 
+instead of when from the second funtion.  This might be a bit difficult, 
+but im sure a few people will be up for the challenge. 
+
+Good luck and have fun.  
+
+Here are the rules :
+1. You must add an exported function to the dll.
+2. You must add an import to the exe.
+3. You must do it all manually!!
+4. No programs that help in the adding/removing of imports/exports!
+5. Have Fun :) 

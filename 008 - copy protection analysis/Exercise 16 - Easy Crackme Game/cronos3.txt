@@ -1,0 +1,12 @@
+Crackme 3 Written by Cronos.
+============================
+
+My third true crackme excepting executable puzzles. Actually this has been written for the Reversing Course for which I was asked to write something 'hard'. Well, it isn't really that hard but then I have the source and I know what its up to. Some people will not be able to crack this because it does require an understanding beyond merely following the code and watching it loop round in a debugger, but then that is why you are doing the Reversing Course isn't it ?
+
+The aim is to find the correct solution without patching the executable file. Think of this program as a small extract from a large program where the real program may put the correct key to further use later on, say for decrypting enabled functions and so patching is rather pointless because those functions would not be properly decrypted and you'd just get a crash at some point (in fact personally I prefer the subtlety of the slow corruption method ;)). But then I don't have to explain or justify this to you it is something you probably already know, the puzzle is to find the right solution here....... over to you,
+
+Having found a valid solution it should be a relatively simple matter for you to ensure that your name appears as the rightful owner, and having done this you will know what you have to send in to the reverse course to finish this.
+
+For the record this crackme was written in C with an asm jmp module replacing standard libraries. It was compiled with the free Borland C++ 5.5 compiler to asm and with tasm32 (from my BC5 directory, not sure if it is originally with BC5 or not) and linked with Tlink32 from BCBuilder.
+
+Cronos.

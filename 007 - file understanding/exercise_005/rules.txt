@@ -1,0 +1,15 @@
+Yes ! The file you downloaded isn't corrupt :) There's only one dll, a bmp and this text in the zip !
+Your goal is to create a loader for that dll. But it's not that easy :)
+
+
+GOALS :
+
+
+1/ The dll will display a MessageBox with the text "Yes, you made it work !  Cool !". Exactly that text, of course without the quotes :)
+2/ You will create a DIALOGBOX (not a window :), and the dll will insert the bitmap (itworks.bmp) in it.
+3/ You can't touch a single bit of my dll
+
+
+Then everything is up to you :)
+
+HINT: You can retreive the hwnd of an item in a dialogbox with the api GetDlgItem, then you can use it as a window hwnd :)

@@ -1,0 +1,23 @@
+Crudd's XORcise 2.1
+This is a nifty little program that lets you encrypt text files with my short encryption method (nothing special).  You can load, and encrypt text files but the decrypt option is only availible in the full version.  I'm sure you can figure out whut to do now.  Have fun.
+Crudd
+
+p.s.  I didn't write most of the notepad part i just used the code that comes with masm, it was already written so why re-write it all.  The XORcise21h is harder than the other just incase you were wondering.
+
+Crudd@Drunkenbastards.com
+
+Thanks to: extasy for solving XORcise 1, pointing out a bug, and giving me a few ideas for this version. Optical for solving XORcise 1.  Hutch and end0rphin for some gui help, and everyone in the greets :)
+
+Greets to:  Everyone in c4n, all of Cream, #win32asm, all of TeX, anyone who has ever helped me, and anyone who tries any of my programs.  There, i dont think i forgot anyone :).
+
+Version History.
+2.1 Added feature:  File signiture.  Checks if file is already encrypted. 
+    (Thanks to extasy for the idea.)
+    Fixed other minor bugs.
+    Prolly still bugs in this one, so if you find them please send them to me.
+2.0 Added features: Encryption key.  Enables user to enter an encryption key.  
+    Fixed 00 byte error.
+    Not really publicly released.
+    (Also reversed by extasy and Optical)
+1.0 Generic.  First Version 
+    (Reversed by extasy and Optical)

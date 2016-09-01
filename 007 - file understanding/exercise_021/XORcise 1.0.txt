@@ -1,0 +1,4 @@
+This is a nifty little program that lets you encrypt text files with my short encryption method (nothing special).  You can load, and encrypt text files but the decrypt option is only availible in the full version.  I'm sure you can figure out whut to do now.  Have fun.
+Crudd
+
+p.s.  I didn't write most of the notepad part i just used the code that comes with masm, it was already written so why re-write it all.  

@@ -1,0 +1,36 @@
+This one is for newer Reversers and OldLeetos alike ;)
+I figured, it would be unfair to keep making my reversemes harder and harder all the time
+with out giving newbie reversers some quality reversemes that they can do by themselves.
+
+I decided to divert this reverseme to a different type of style. 
+
+The goal of the reverseme is to add functionality by way of adding a message box. You
+must make the message box display "I am a LaMe rEvErSeR! :P". Currently, the reme3.exe file
+only imports and uses ExitProcess :)
+
+Sounds easy enough, right?
+*******************************************************************************************
+Well then, here are the rules:
+1. You must add a new section to the file by way of editing the PE header/Optional Header.
+
+2. You must add the message box function to the file by adjusting the import table.
+
+3. You must alter the entry point of the file to point to the message box code that is
+within the new section.
+
+4. After the execution of the message box, your code must jump back to the original 
+entry point of the file. - So the program can exit nicely using the already imported
+ExitProcess ;)
+
+5. IMPORTANT: You are only allowed to change the "PE Header/Optional Header" area of the
+file and the area of the new section you add. You can't change any other sections.
+Especially the import area.
+
+6. FINALLY, You are only allowed to use hex/code editors(example: HIEW), you can use Wdasm or IDA, but I don't see what good they can do. You are not pe editors like procdump or the other numerous ones, or my IID King.
+
+7. You must do it all by hand, that is what I am trying to get at here. You must do it
+all manually. No help but your brain and an editor of some kind, for changing the
+hex/code.
+********************************************************************************************
+Well, there it is folks. That shouldn't be too hard, yet not too easy. You might even
+learn something. ;)

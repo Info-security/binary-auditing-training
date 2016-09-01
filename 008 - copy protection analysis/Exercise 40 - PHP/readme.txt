@@ -1,0 +1,1 @@
+Give the correct arguments to php script and you are a "php master".

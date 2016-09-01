@@ -1,0 +1,23 @@
+
+As you've maybe allready noticed when you try to run the ReMe it
+crashes with an int3 ;)
+Don't worry about it... it's supposed to...
+
+I've taken this idea from SantMat's ReMe 3, i hope he don't mind ;)
+Let me make the rules clear to you:
+
+1.	Make a new Section.
+2.	Don't touch the other 2 Sections (offcourse you may touch the
+	PE Header ;)
+3.	You MUST use the allready Imported ExitProcess to quit this
+	program in a clean way :)
+4.	Make the Entry Point jump to your Code BUT... after your Code
+	make it jump to the Original Entry Point and let it quit
+	in a good way with the Imported ExitProcess ;)
+5.	In your Code make an Message Box that shows the current Tick
+	Count...
+6.	And offcourse do it all Manually, no Tools (You may use HIEW
+	or something offcourse ;) but no PE Editors or the likes of
+	that...
+7.	And i think that's all...
+

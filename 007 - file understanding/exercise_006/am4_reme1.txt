@@ -1,0 +1,25 @@
+The goal here will be to learn something
+about the format of the resources section (.rsrc) of a windows PE file.
+
+***************************
+* The Challenge
+***************************
+
+Attached in the zip file you will find 3 .dump files. These files are the actual
+hex/binary data for 2 dialogs and an icon. This is the raw data for 3 seperate 
+resources. Your goal is to add a new section called .rsrc and insert these resources
+into the exe file. This will involve building a valid rsrc structure in the new section,
+and adding the provided data as the actual data pointed to by the leaf nodes.
+Then change the program to pop up the dialog1.dump dialog first, followed by the 
+dialog2.dump dialog next. For each dialog, make the title bar display the added
+icon in the .rsrc section. 
+
+Currently the program just exits immediately.
+
+Here are the rules: 
+
+1) You MUST!!!! do all the work in the .rsrc by hand. No using resource editors to do this.
+   Remember you're supposed to learn about the structure of this section.
+2) You can use any other tools you wish, except a resource editor, to perform the adding of the 
+   section or adding code. etc...
+   

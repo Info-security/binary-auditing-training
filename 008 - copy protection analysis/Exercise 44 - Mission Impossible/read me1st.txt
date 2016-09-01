@@ -1,0 +1,10 @@
+^DAEMON^ - 2k2
+
+Your goal is to find the correct password! nothin else!
+Works only on 9x!
+AND unpack the file! (it's protected!)
+also explain the anti-debugging used in the protector!
+
+maybe system crashes! so be prepared!
+
+Difficulty : 30/30 !!!

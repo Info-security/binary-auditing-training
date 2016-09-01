@@ -1,0 +1,5 @@
+yes, it definately is just a messagebox...
+remove this messagebox.
+no patching allowed, no processpatching allowed (of the reverseme's process).
+maybe code a little processpatcher of a different process, or a tiny vxd..
+(windows should work fine afterwards again.. no crashing, no instability please).
