@@ -1,0 +1,16 @@
+.wow{
+  display: inline;
+}
+.disclaimer{
+  height: 40px;
+  width: 50px;
+
+}
+.license{
+  display:inline-block;
+}
+body{
+  background-image: url(https://cdn.wallpapersafari.com/92/2/D1uAGv.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
